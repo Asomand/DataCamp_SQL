@@ -6,7 +6,7 @@ Used to store the jupyter note books from the project sections in Datacamp for t
 [Project 1](https://app.datacamp.com/learn/projects/1531)  see file here 
 
 ## Analyzing Motorcycle Part Sales 
-[Project 2](https://app.datacamp.com/learn/projects/1574)  
+[Project 2](https://app.datacamp.com/learn/projects/1574)  my finished [answer](https://github.com/Asomand/DataCamp_SQL/blob/4ab0873d08a9a79ec78377316e404590207e7ddb/Motorcyle/notebook.ipynb)
 
 ## Analyzing Industry Carbon Emissions
 [Project 3](https://app.datacamp.com/learn/projects/analyzing_industry_carbon_emissions)  my finsihed [answer](https://github.com/Asomand/DataCamp_SQL/blob/d43f73d43fc77eec4b43ddd318cabdfc45e97547/Carbon%20Emissions/notebook%20(1).ipynb)
