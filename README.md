@@ -10,3 +10,6 @@ Used to store the jupyter note books from the project sections in Datacamp for t
 
 ## Analyzing Industry Carbon Emissions
 [Project 3] (https://app.datacamp.com/learn/projects/analyzing_industry_carbon_emissions)  
+
+## Analyzing American Baby Name Trends
+[Project 4] (https://projects.datacamp.com/projects/1441)
